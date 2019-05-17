@@ -1,0 +1,19 @@
+Objetivos cumpridos:
+
+1 - Ler e guardar a informação da agência, dos clientes e dos pacotes turísticos armazenada em ficheiros. 
+2 - Gerir os clientes e pacotes turísticos: criar, alterar e remover um cliente ou um pacote turístico.
+3 - Gerar e visualizar de modo formatado a informação de um cliente especificado (procurar pelo nif).
+4 - Gerar e visualizar de modo formatado a informação de todos os clientes da agência. 
+5 - Gerar e visualizar de modo formatado a informação de um pacote específico (procurar pelo id).
+6 - Gerar e visualizar de modo formatado a informação de todos os pacotes da agência.  
+7 - Efetuar a compra de um pacote turístico por um cliente.
+8 - O projeto foi feito em classes.
+
+
+Objetivos por cumprir:
+
+1 - Gerar e visualizar de modo formatado os pacotes turísticos vendidos (a um cliente específico, a todos os clientes).
+2 - Calcular e visualizar o número e o valor total de pacotes vendidos.
+3 - As funcionalidades de estatisticas também não foram implementadas (ponto 9 e 10). 
+
+P.S.: caso haja algum problema em abrir o programa, envio o código num ficheiro de bloco de notas.
